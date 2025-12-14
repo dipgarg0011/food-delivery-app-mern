@@ -1,9 +1,9 @@
-# 🍔 Food Delivery Website (Frontend)
+# 🍔 Food Delivery Website (Work in Progress)
 
-🚧 Work in Progress
+This is a food delivery website frontend built using React.
 
-This is a frontend food delivery website built using **React**.  
-The project is inspired by a YouTube tutorial and is being customized while learning React.
+## 🚧 Project Status
+Incomplete / Under Development
 
 ## 🛠 Tech Stack
 - React
@@ -11,17 +11,14 @@ The project is inspired by a YouTube tutorial and is being customized while lear
 - JavaScript
 
 ## 📂 Folder Structure
-- components
-- pages
-- context
+frontend/
+ ├── src/
+ │   ├── components/
+ │   ├── pages/
+ │   ├── context/
+ │   └── App.jsx
 
-## 📌 Current Status
-- Navbar & Header completed
-- Food display UI in progress
-- Backend not added yet
-
-## 🎯 Learning Goals
-- React components
-- Context API
-- State management
-- Git & GitHub workflow
+## 🚀 Future Plans
+- Complete frontend UI
+- Add backend (Node.js, Express)
+- MongoDB integration
