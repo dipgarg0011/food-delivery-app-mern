@@ -23,12 +23,25 @@ I am building it to learn:
 - Styling (custom)
 - Bug fixes
 
+- ## 📂 Folder Structure
+frontend/
+ ├── src/
+ │   ├── components/
+ │   ├── pages/
+ │   ├── context/
+ │   └── App.jsx
+ ├── public/
+ └── package.json
+
+
 ## 🧠 What I’m learning
 - Component reusability
 - Props & state
 - Git & GitHub workflow
 
 ## 📅 Future Plans
-- Complete UI
-- Add backend (Node + MongoDB)
-- Authentication
+- Complete frontend UI
+- Add backend (Node.js, Express)
+- MongoDB integration
+- User authentication
+
