@@ -7,10 +7,17 @@
     margin-bottom: 20px;
     font-weight: 600;
 }
-.food-display-list{
-    display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(240px,1fr));
-    gap: 20px;
-    overflow-x: auto;
-    padding-bottom: 10px;
+.food-display-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 30px;
+  padding-bottom: 10px;
+}
+.food-display-list::-webkit-scrollbar {
+  display: none;
+}
+@media (max-width: 768px) {
+  .food-display-list {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  }
 }

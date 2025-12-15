@@ -17,7 +17,7 @@ const Fooddisplay = ({ category }) => {
           .map((item) => (
             <Fooditem
               key={item._id}
-              id={item._id}
+              _id={item._id}
               name={item.name}
               description={item.description}
               price={item.price}
