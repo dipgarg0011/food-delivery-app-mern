@@ -1,24 +1,27 @@
-# 🍔 Food Delivery Website (Work in Progress)
+# 🍔 Food Delivery App (MERN) – WIP
 
-This is a food delivery website frontend built using React.
+A food delivery web application built using the MERN stack.
+This project is currently under development and focuses on learning
+real-world frontend and backend integration.
 
-## 🚧 Project Status
-Incomplete / Under Development
-
-## 🛠 Tech Stack
-- React
+## 🚀 Tech Stack
+- React (Vite)
 - CSS
-- JavaScript
+- Node.js (planned)
+- Express.js (planned)
+- MongoDB (planned)
 
-## 📂 Folder Structure
-frontend/
- ├── src/
- │   ├── components/
- │   ├── pages/
- │   ├── context/
- │   └── App.jsx
+## ✨ Features (In Progress)
+- Responsive Navbar
+- Food listing UI
+- Login / Signup popup
+- Cart UI (coming soon)
+- Backend APIs (coming soon)
 
-## 🚀 Future Plans
-- Complete frontend UI
-- Add backend (Node.js, Express)
-- MongoDB integration
+## 📌 Project Status
+🚧 Work in Progress (Learning-based project)
+
+## 📂 How to Run Locally
+```bash
+npm install
+npm run dev
