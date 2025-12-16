@@ -15,6 +15,10 @@ real-world frontend and backend integration.
 Frontend: React, Vite, CSS  
 Backend: Node.js, Express (coming soon)  
 Database: MongoDB (planned)
+## 🔧 Backend (WIP)
+- Express.js server initialized
+- API structure setup
+- Future: auth, orders, payments
 
 ## 📸 Screenshots
 <img width="1790" height="923" alt="image" src="https://github.com/user-attachments/assets/f75077e7-b249-4ed2-85e3-9f7a01f1cdad" />
