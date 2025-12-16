@@ -1,12 +1,11 @@
 .food-item{
-    width: 100%;
-    min-width: 280px;
-    margin: auto;
+    
+    min-width: 20px;
     border-radius: 15px;
     box-shadow: 0 0 10px #00000015;
     transition: 0.3s;
     animation: fadein 1s ease-in-out;
-    overflow: hidden;
+    margin-bottom: 10px;
 }
 
 .food-item-img{
@@ -14,7 +13,8 @@
     border-radius: 12px;
     object-fit: cover;
     height: 180px;
-
+    grid-area: image;
+    
 }
 
 .food-item-info{
